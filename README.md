@@ -7,6 +7,5 @@ Los temas son:
   * Binaria en columna de platos por el Método de McCabe-Thiele
   * En tanque Flash
  
-$\sqrt{3x+1}$
   
 
