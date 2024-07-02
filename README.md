@@ -6,5 +6,7 @@ Los temas son:
 * Destilación
   * Binaria en columna de platos por el Método de McCabe-Thiele
   * En tanque Flash
+ 
+$ '\sqrt{3x+1'$
   
 
