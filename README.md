@@ -20,8 +20,9 @@ Para el cálculo del número de platos, deben de dibujarse escalones ente las l�
 
 Source: [Cheresources](http://www.cheresources.com/content/articles/separation-technology/packed-column-design#google_vignette)
 
-
-
+# **VIDEO DEMOSTRATIVO DEL FUNCIONAMIENTO DE UNA COLUMNA DE ABSORCIÓN DE PLATOS**
+Ejemplo del uso de aminas para la remoción de ácidos
+[![](https://markdown-videos.deta.dev/youtube/qybIVRG20OA)](https://youtu.be/qybIVRG20OA?si=gj23xEw10VIvi3Am)
 
 **Ecuaciones de balance** El balance se hace sobre la especie de interés (Acetona)
 
