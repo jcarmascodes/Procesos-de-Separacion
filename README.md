@@ -36,48 +36,28 @@ Source: [Cheresources](http://www.cheresources.com/content/articles/separation-t
 *   *H*: Constante de Henry
 
 
-\begin{equation}
-  V_{E}\times y_{E}=N_{Ey}
-\end{equation}
+$V_{E}\times y_{E}=N_{Ey}$
 
-\begin{equation}
-  V_{E}\times (1-y_{E})=N_{InerteyE}
-\end{equation}
 
-\begin{equation}
-  N_{Ey}\times (\%_{Abs})=N_{xS}
-\end{equation}
+$V_{E}\times (1-y_{E})=N_{InerteyE}$
 
-\begin{equation}
-  N_{Ey}\times (\%_{NoAbs})=N_{yS}
-\end{equation}
+$N_{Ey}\times (Porcentaje_{Abs})=N_{xS}$
 
-\begin{equation}
-  N_{InerteyE}+N_{yS}=V_{S}
-\end{equation}
+$N_{Ey}\times (Porcentaje_{NoAbs})=N_{yS}$
 
-\begin{equation}
-  N_{InertexE}+N_{xS}=L_{S}
-\end{equation}
+$N_{InerteyE}+N_{yS}=V_{S}$
 
-\begin{equation}
-  \frac {N_{yS}}{V_{S}}=y_{S}
-\end{equation}
+$N_{InertexE}+N_{xS}=L_{S}$
 
-\begin{equation}
-  \frac {N_{xS}}{L_{S}}=x_{S}
-\end{equation}
+$\frac {N_{yS}}{V_{S}}=y_{S}$
+
+$\frac {N_{xS}}{L_{S}}=x_{S}$
 
 **Línea de Operación**
-\begin{equation}
-  y=\frac{L_{S}}{V_{E}}x+y_{S}+\frac{L_{S}}{V_{E}}x_{E}
-\end{equation}
+$y=\frac{L_{S}}{V_{E}}x+y_{S}+\frac{L_{S}}{V_{E}}x_{E}$
 
 **Línea de Equilibrio**
-\begin{equation}
-  P_{T}y=Hx
-\end{equation}
-
+  $P_{T}y=Hx$
 
 **FUENTE**
 [1] Seader S.D. , Henley E. , Roper K. (2011) *Separation Process Principles: Chemical and Biochemical Operations* 3erd edition,  John & Wiley Sons USA
