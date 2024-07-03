@@ -9,12 +9,22 @@ Esta separación requiere:
 La destilación es diferente a la absorción o desorción, ya que en esta operación unitaria, la fase vapor se crea por medios térmicos. 
 La destilación es un proceso muy relevante y está presente desde la elaboración de bebidas alcohólicas hasta la separación del petróleo en diferentes fracciones. 
 
-El equipo típico de destilación consiste en: 
+##**Destilación Flash**
+La destilación flash consiste en vaporizar una determinada fracción de líquido, de manera que el vapor que salga del separador flash esté en equilibrio con el líquido que sale. En este equipo la presión es reducida a través de una válvula 
+En la destilación flash se aprovecha el concepto de volatilidad relativa, que es una relación entre el líquido y el vapor.
+$\K_{i}=\frac{y_{i}}{x_{i}}
+$\alpha=\frac{K_{1}}{K_{2}}
+Donde las fracciones de líquido y vapor pueden relacionarse a través de las ecuaciones: 
+$y=\frac{\alphax}{1+(\alpha-1)x}
+
+
+
+El equipo típico de destilación en columna consiste en: 
 * *Plato de Alimentación*: El plato en el que se suministra la mezcla a destilar. 
 * *Rehervidor*: El cual vaporiza parcialmente la mezcla que a este llega. Se encuentra en el fondo de la columna.
 * *Reflujo*: Es una fracción del líquido destilado que es retornado a la columna, esto se logra a través de un condensador. Incrementa la pureza del producto final.
 * *Zona de rectificación*: Zona por encima del plato de alimentación, ahí es donde se enriquece de el vapor de los componentes más volátiles.
-* *Zona de agotamiento*: Zona por debajo del plato de alimentación, ahí es donde la corriente de líquido está compuesta en su mayor parte por los componentes menos volátiles.
+* *Zona de agotamiento*: Zona por debajo del plato de alimentación, ahí es donde la corriente de líquido está compuesta en su mayor parte por los componentes menos volátiles. 
 
 ![](https://www.aiche.org/sites/default/files/images/cep/inline/2018-07-01-Feature/2018-07-01-Predict-Distillation-Tray-Efficiency/images/fig_01.png)
 
