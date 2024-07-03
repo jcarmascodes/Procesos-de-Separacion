@@ -36,28 +36,28 @@ Ejemplo del uso de aminas para la remoción de ácidos: https://youtu.be/qybIVRG
 *   *H*: Constante de Henry
 
 
-$V_{E}\times y_{E}=N_{Ey}$
+## $V_{E}\times y_{E}=N_{Ey}$
 
 
-$V_{E}\times (1-y_{E})=N_{InerteyE}$
+## $V_{E}\times (1-y_{E})=N_{InerteyE}$
 
-$N_{Ey}\times (Porcentaje_{Abs})=N_{xS}$
+## $N_{Ey}\times (Porcentaje_{Abs})=N_{xS}$
 
-$N_{Ey}\times (Porcentaje_{NoAbs})=N_{yS}$
+## $N_{Ey}\times (Porcentaje_{NoAbs})=N_{yS}$
 
-$N_{InerteyE}+N_{yS}=V_{S}$
+## $N_{InerteyE}+N_{yS}=V_{S}$
 
-$N_{InertexE}+N_{xS}=L_{S}$
+## $N_{InertexE}+N_{xS}=L_{S}$
 
-$\frac {N_{yS}}{V_{S}}=y_{S}$
+## $\frac {N_{yS}}{V_{S}}=y_{S}$
 
-$\frac {N_{xS}}{L_{S}}=x_{S}$
+## $\frac {N_{xS}}{L_{S}}=x_{S}$
 
 **Línea de Operación**
-$y=\frac{L_{S}}{V_{E}}x+y_{S}+\frac{L_{S}}{V_{E}}x_{E}$
+## $y=\frac{L_{S}}{V_{E}}x+y_{S}+\frac{L_{S}}{V_{E}}x_{E}$
 
 **Línea de Equilibrio**
-  $P_{T}y=Hx$
+##  $P_{T}y=Hx$
 
 **FUENTE**
 [1] Seader S.D. , Henley E. , Roper K. (2011) *Separation Process Principles: Chemical and Biochemical Operations* 3erd edition,  John & Wiley Sons USA
