@@ -153,6 +153,7 @@ Ejemplo del funcionamiento del equipo: https://www.youtube.com/watch?v=N3F41ndBf
 
 
 **FUENTE**
+
 [1] McCabe W. , Smith J. , Harriott P. (2022) * Unit Operations of Chemical Engineering* 7th edition, McGraw-Hill India
 
 [2] Seader S.D. , Henley E. , Roper K. (2011) *Separation Process Principles: Chemical and Biochemical Operations* 3erd edition,  John & Wiley Sons USA
