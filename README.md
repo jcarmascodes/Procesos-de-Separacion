@@ -11,7 +11,7 @@ Los temas son:
   * Binaria en columna de platos por el Método de McCabe-Thiele
      * 1 Alimentación
      * Varias alimentaciones
-  * Binaria en columna de platos por el Método Entalpía-Concentración
+  * Binaria en columna de platos por el Método Entalpía-Concentración (Método Ponchon-Savarit)
   * Multicomponente por el Método Fenske-Underwood-Gililland
   * En tanque Flash
  
