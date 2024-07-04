@@ -142,14 +142,19 @@ Todos los tipos de alimentación pueden ser caracterizados por medio del paráme
 Source: [Citizendium](https://en.citizendium.org/wiki/McCabe-Thiele_method)
 
 # **VIDEO DEMOSTRATIVO DEL FUNCIONAMIENTO DE UNA COLUMNA DE DESTILACIÓN DE PLATOS**
-Ejemplo del uso de aminas para la remoción de ácidos: https://youtu.be/OQv-Tr-k5Ic?si=Rv-7BB90MzO_gDJF
+Ejemplo del funcionamiento del equipo: https://www.youtube.com/watch?v=07MBppchxow
  
-[![Alt text](https://img.youtube.com/vi/qOQv-Tr-k5Ic/0.jpg)](https://www.youtube.com/watch?v=OQv-Tr-k5Ic)
+[![Alt text](https://img.youtube.com/vi/07MBppchxow/0.jpg)](https://www.youtube.com/watch?v=07MBppchxow)
 
+# **VIDEO DEMOSTRATIVO DEL FUNCIONAMIENTO DE UN SEPARADOR FLASH**
+Ejemplo del funcionamiento del equipo: https://www.youtube.com/watch?v=N3F41ndBfwY
+[![Alt text](https://img.youtube.com/vi/N3F41ndBfwY/0.jpg)](https://www.youtube.com/watch?v=N3F41ndBfwY)
+ 
 
 
 **FUENTE**
 [1] McCabe W. , Smith J. , Harriott P. (2022) * Unit Operations of Chemical Engineering* 7th edition, McGraw-Hill India
+
 [2] Seader S.D. , Henley E. , Roper K. (2011) *Separation Process Principles: Chemical and Biochemical Operations* 3erd edition,  John & Wiley Sons USA
 
 
