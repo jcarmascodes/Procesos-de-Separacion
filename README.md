@@ -15,8 +15,8 @@ Los temas son:
   * Multicomponente por el Método Fenske-Underwood-Gililland
   * En tanque Flash
 * Extracción
- * Sólido-Líquido
- * Líquido-Líquido  
+  * Sólido-Líquido
+  * Líquido-Líquido  
  
   
 
