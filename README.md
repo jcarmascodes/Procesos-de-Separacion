@@ -8,7 +8,7 @@ Esta operación unitaria es llevada a cabo en columna verticales de platos, las 
 ![](https://www.filsonfilters.com/wp-content/uploads/2020/11/Figure-2-Absorption-tower.jpg)
 
 Source: [Filson Filter](https://www.filsonfilters.com/absorption-tower)
-
+## **Columna de Platos**
 Uno de los métodos por el que se analizan este tipo de equipos es a través de un Método Gráfico, el cual consiste en dibujar 2 líneas:
 
 * *Línea de Equilibrio*: Ajusta datos y-x de equilibrio de fases entre el soluto y el absorbente. Para mezclas muy diluidas, el Ley de Henry puede describir correctamente este equilibrio.
@@ -58,6 +58,13 @@ Ejemplo del uso de aminas para la remoción de ácidos: https://youtu.be/qybIVRG
 
 **Línea de Equilibrio**
 ##  $P_{T}y=Hx$
+
+## **Columnas Empacadas**
+Otro modelo que es común encontrar es el de las columnas empacadas. Las columnas empacadas están rellenas de un material barato e inerte como puede ser la porcelana, arcilla, metal o plásticos, los cuales suelen acomodarse de manera aleatoria; a cada empaque se le asocia un determinado factor de empaquetamiento.
+
+![](https://media.cheggcdn.com/media/064/064e565c-0e30-4c92-b257-45ac94346579/phpeCfbon)
+
+Source: [Chegg](https://www.chegg.com/homework-help/questions-and-answers/1-lecture-23-40-points-ammonia-absorbed-air-countercurrent-contact-water-tower-packed-2-in-q81315974)
 
 **FUENTE**
 
