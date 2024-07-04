@@ -76,12 +76,20 @@ Siendo S la tolerancia del sistema
  ## $V=(V/F)\times F$
 ## $L=F-V$
 
+# **Método de McCabe-Thiele**
+La destilación flash es usada como único método de separación si la volatilidad entre las especies de la mezcla es muy diferente; aunque en la mayoría de los casos es más común encontrar columnas de platos, los cuales funcionan como múltiples etapas de equilibrio para lograr una pureza determinada.
+**Balances de Materia**
+$\frac{Fz-Fx_{D}}{x_{B}-x_{D}}=B$
+$D=F-B$
 
+El método de McCabe-Thiele funciona en los siguientes casos si: 
+* Los componentes tienen entalpías de vaporización similares y constantes.
+* La energía liberada durante el mezclado es despreciable.
+* La columna está aislada, de forma que la pérdida de energía es despreciable.
+* La presión en la columna es uniforme.
 
-
-
-
-
+  Estas suposiciones llevan a considerar un derrame molar constante en el vapor y líquido.
+  
 El equipo típico de destilación en columna consiste en: 
 * *Plato de Alimentación*: El plato en el que se suministra la mezcla a destilar. 
 * *Rehervidor*: El cual vaporiza parcialmente la mezcla que a este llega. Se encuentra en el fondo de la columna.
@@ -92,4 +100,56 @@ El equipo típico de destilación en columna consiste en:
 ![](https://www.aiche.org/sites/default/files/images/cep/inline/2018-07-01-Feature/2018-07-01-Predict-Distillation-Tray-Efficiency/images/fig_01.png)
 
 Source: [ChemicalEngineering World](https://chemicalengineeringworld.com/packed-column-versus-tray-column/#google_vignette)
+
+
+En base a estas suposiciones se dibujan las líneas de operación de rectificación y agotamiento cuyas ecuaciones son: 
+
+**Línea de Operación Zona Rectificación**
+## $y_{N+1}=\frac{R_{D}}{R_{D}+1}x_{n}+\frac{x_{D}}{R_{D}+1}$
+
+
+**Línea de Operación Zona de Agotamiento**
+## $y=(\frac{V_{B}+1}{V_{B}})x-(\frac{1}{V_{B}})x_{B}$
+
+**Condiciones de alimentación**
+Las condiciones del flujo de alimentación influyen notoriamente en el plato por el que entrará la mezcla a separar. 
+Todos los tipos de alimentación pueden ser caracterizados por medio del parámetro q, que se define como los moles del flujo líquido en la zona de agotamiento que son resultado de la corriente de alimentación [2].
+
+**Cálculo de la condición de alimentación q**
+* *q>1* Líquido frío
+## $q=1+\frac{Cp_{L}(T_{b}-T_{F})}{\lambda}$
+* *q=1* Líquido Saturado
+* *0<q<1* Mezcla Líquido-Vapor (q es la fracción es líquida)
+* *q=0* Vapor Saturado
+* *q<0* Vapor Sobrecalentado
+## $q=-\frac{Cp_{V}(T_{F}-T_{d})}{\lambda}$
+
+
+**Línea de Alimentación**
+## $y=-\frac{q}{1-q}x+\frac{x_{F}}{1-q}$
+
+
+**Cálculo del Punto de Intersección entre Líneas de Operación**
+## $x_{int}=\frac{Z(R+1)+x_{D}(q-1)}{q(R+1)-R(q-1)}$
+
+**Cálculo de los flujos**
+## $V_{B}=S\times B$
+
+## $L_{D}=R\times D$
+
+![](https://en.citizendium.org/wiki/images/thumb/8/84/McCabe-Thiele.png/325px-McCabe-Thiele.png)
+
+Source: [Citizendium](https://en.citizendium.org/wiki/McCabe-Thiele_method)
+
+# **VIDEO DEMOSTRATIVO DEL FUNCIONAMIENTO DE UNA COLUMNA DE DESTILACIÓN DE PLATOS**
+Ejemplo del uso de aminas para la remoción de ácidos: https://youtu.be/OQv-Tr-k5Ic?si=Rv-7BB90MzO_gDJF
+ 
+[![Alt text](https://img.youtube.com/vi/qOQv-Tr-k5Ic/0.jpg)](https://www.youtube.com/watch?v=OQv-Tr-k5Ic)
+
+
+
+**FUENTE**
+[1] McCabe W. , Smith J. , Harriott P. (2022) * Unit Operations of Chemical Engineering* 7th edition, McGraw-Hill India
+[2] Seader S.D. , Henley E. , Roper K. (2011) *Separation Process Principles: Chemical and Biochemical Operations* 3erd edition,  John & Wiley Sons USA
+
 
