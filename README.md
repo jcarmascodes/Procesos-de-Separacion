@@ -14,6 +14,9 @@ Los temas son:
   * Binaria en columna de platos por el Método Entalpía-Concentración (Método Ponchon-Savarit)
   * Multicomponente por el Método Fenske-Underwood-Gililland
   * En tanque Flash
+* Extracción
+ * Sólido-Líquido
+ * Líquido-Líquido  
  
   
 
