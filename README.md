@@ -6,7 +6,8 @@ Los temas son:
 * Absorción:
   * En columna de platos
   * En columna empacada
-  * Humidificación
+* Humidificación
+  * Torre de enfriamiento 
 * Destilación
   * Binaria en columna de platos por el Método de McCabe-Thiele
      * 1 Alimentación
