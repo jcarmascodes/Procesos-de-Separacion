@@ -101,7 +101,9 @@ Esta expresión requiere del número de Reynolds y el número de Froude del líq
 Adicionalmente, se requiere de una correlación empírica: 
 ## $\frac{a_{Ph}}{a}=1.5(aD_{H})^{-1/2}(N_{ReLh})^{-0.2}(N_{WeLh})^{0.75}(N_{FrLh})^{-0.45}$
 
+![](https://epcmholdings.com/wp-content/uploads/2022/08/Packed-column-schematic-e1659925358307-1024x643.png)
 
+Source: [EPCM Holdings](https://epcmholdings.com/absorption-column-types-and-designing-considerations/)
 
 
 
