@@ -8,6 +8,8 @@
 * *Calor húmedo*: Energía necesaria para incrementar 1°C de temepratura del gas más el vapor que transporte.
 * Punto de rocío*: Temperatura a la cual la mezcla gas-vapor debe ser disminuida para convertirse en saturada.
 * *Temperatura de saturación adiabática*: Temperatura a la que una masa de aire húmedo se enfriaría al saturarse en un proceso adiabático.
+* *Entalpía Total*: Es la entalpía de una unidad de masa de gas y vapor:
+## $H_{y}=c_{s}(T-T_{0})+H\lambda_{0}$ 
 * *Temperatura de bulbo húmedo*: Es una cantidad útil para predecir la fuerza impulsora de transferencia de masa y energía en operaciones de humidificación. Esta es la temperatura de no-equilibrio alcanzada por una masa de líquido que está en contacto con una corriente de gas en condiciones adiabáticas. 
   * Si el gas no está saturado, algo de líquido se evaporará (y enfriará).
   * Conforme la temperatura del líquido disminuya por debajo de la del gas; algo de calor sensible será transferido al líquido.
