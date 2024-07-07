@@ -163,6 +163,17 @@ La ecuación de Fenske aplica para la determinación del número mínimo de plat
 ## $N_{min}=\frac{\ln[(x_{Di}/x_{Bi})/(x_{Dj}/x_{Bj})]}{\ln{\alpha_{ij}}}$
 ## $\alpha_{ij}=\sqrt[3]{\alpha_{Dij}\alpha_{Fij}\alpha_{Bij}}=\frac{\alpha_{LK}}{\alpha_{HK}}$
 
+La ecuación de Underwood ayuda a determinar la razín de reflujo mínima. 
+## $1-q=\sum\frac{\alpha_{i}x_{Fi}}{\alpha_{i}-\phi}$
+## $Rd_{min}+1=\sum\frac{\alpha_{i}x_{Di}}{\alpha_{i}-\phi}$
+
+Por último para conocer la cantidad de etapas ideales se utiliza la correlación de Gilliland.
+![](https://www.hyper-tvt.ethz.ch/gif/gilliland.gif)
+
+Source: [Hyper-TVT](https://www.hyper-tvt.ethz.ch/distillation-multicomponent-gilliland.html)
+
+
+
 **FUENTE**
 
 [1] McCabe W. , Smith J. , Harriott P. (2022) *Unit Operations of Chemical Engineering* 7th edition, McGraw-Hill India
