@@ -149,8 +149,19 @@ Ejemplo del funcionamiento del equipo: https://www.youtube.com/watch?v=07MBppchx
 # **VIDEO DEMOSTRATIVO DEL FUNCIONAMIENTO DE UN SEPARADOR FLASH**
 Ejemplo del funcionamiento del equipo: https://www.youtube.com/watch?v=N3F41ndBfwY
 [![Alt text](https://img.youtube.com/vi/N3F41ndBfwY/0.jpg)](https://www.youtube.com/watch?v=N3F41ndBfwY)
- 
 
+## **Destilación multicomponente Método Fenske-Underwood-Gilliland**
+
+En la destilación multicomponente hay 3 o más componentes en la alimentación, y especificar la composición de uno de los componentes no define al resto; sin embargo si se intentan fijar *n-1* componentes para el destilado y los fondos es casi imposible satisfacer estas especificaciones con exactitud. Un incremento en el reflujo o en la cantidad de etapas podrían hacer una separación más fina y por coincidencia podría lograr la separación deseada. Por ello el diseñador generalmente selecciona 2 componentes cuya concentración en el destilado y en los fondos sea representativa de la separación lograda, a estos se les llama componentes clave. Al más volátil se le llama "Clave ligero" y se caracteriza por la letra L, mientras que el menos volátil se le llama "Clave pesado" y se caracteriza por la letra H. 
+
+Una vez seleccionadas los componentes claves, el diseñador elige las fracciones de xL y xH bajo los siguientes criterios:
+* El destilado debe de estar casi completamente comouesto por el Clave ligero si los 2 componentes seleccionados son los más volátiles; esto debido a que los componentes más pesados que el componente H no irán más allá del plato de alimentación.
+* Si existen componentes más ligeros que el componente L, donde estos se recuperen íntegramente en el destilado.
+* Si existen componentes más pesados que el componente H, estos recuperan íntegramente en los fondos.
+
+La ecuación de Fenske aplica para la determinación del número mínimo de platos a una razón de reflujo infinita. Don de D, F, B hacen referencia a las composiciones del destilado del destilado, del plato de alimentación y en los fondos 
+## $N_{min}=\frac{\ln[(x_{Di}/x_{Bi})/(x_{Dj}/x_{Bj})]}{\ln{\alpha_{ij}}}$
+## $\alpha_{ij}=\sqrt[3]{\alpha_{Dij}\alpha_{Fij}\alpha_{Bij}}$
 
 **FUENTE**
 
