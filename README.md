@@ -161,7 +161,7 @@ Una vez seleccionadas los componentes claves, el diseñador elige las fracciones
 
 La ecuación de Fenske aplica para la determinación del número mínimo de platos a una razón de reflujo infinita. Don de D, F, B hacen referencia a las composiciones del destilado del destilado, del plato de alimentación y en los fondos 
 ## $N_{min}=\frac{\ln[(x_{Di}/x_{Bi})/(x_{Dj}/x_{Bj})]}{\ln{\alpha_{ij}}}$
-## $\alpha_{ij}=\sqrt[3]{\alpha_{Dij}\alpha_{Fij}\alpha_{Bij}}$
+## $\alpha_{ij}=\sqrt[3]{\alpha_{Dij}\alpha_{Fij}\alpha_{Bij}}=\frac{\alpha_{LK}}{\alpha_{HK}}$
 
 **FUENTE**
 
