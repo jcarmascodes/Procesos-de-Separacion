@@ -190,11 +190,16 @@ Para realizar este cálculo se requiere calcular la línea de líquido saturad0,
 Por otro lado, la línea de vapor saturado se calcula por medio de: 
 ## $H=y_{a}[\lambda_{a}+Cp_{ya}(T-T_{0})]+(1-y_{a})[\lambda_{b}+Cp_{yb}(T-T_{0})]$
 
+
+
 Los valores de las entalpías de vaporización deben de ser corregidos por la siguiente ecuación, donde todos los términos con un subíndice B, son a la temperatura de ebullición normal: 
 ## $\lambda_{a}=Cp_{a}(T_{Ba}-T_{0})+\lambda_{aB}-Cp_{ya}(T_{Ba}-T_{0})$
 ## $\lambda_{b}=Cp_{b}(T_{Bb}-T_{0})+\lambda_{bB}-Cp_{yb}(T_{Ba}-T_{0})$
 
+Ahora debe calcularse el valor de Q', donde los valores de H y h corresponden a las entalpías en la concentración de destilado:
+## $R=\frac{Q'-H_{vD}}{H_{vD}-h_{LD}}$
 
+Una vez calculado esto, debe trazarse una línea recta entre el punto Q' y el punto (xF,hL(xF)) y extrapolar hasta xB, para obtener un nuevo valor de Q''.
 
 
 **FUENTE**
