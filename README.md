@@ -172,6 +172,29 @@ Por último para conocer la cantidad de etapas ideales se utiliza la correlació
 
 Source: [Hyper-TVT](https://www.hyper-tvt.ethz.ch/distillation-multicomponent-gilliland.html)
 
+## **Método de Ponchon-Savarit**
+El Método de McCabe-Thiele hace algunas suposiciones que no son del todo exactas; con el objetivo de intentar corregirlo, se utilizar el método de Ponchon-Savarit, el cual en su cálculo incluye también a los balances de energía.
+
+### *Datos de entalpía-concentración*
+Un diagrama de entalpía-concentración de la mezcla vapor líquido incluye los calores latentes, los calores de mezclado y los calores sensibles, por lo que para construir los diagramas a presión constante se requieren: 
+* Capacidad calorífica del líquido en función de la temperatura
+* Calor de disolución en función de la temperatura y composición
+* Calores latentes de vaporización en función de la composción y temperatura o presión.
+* Punto de ebullición en función de la temperatura, presión y composición.
+
+Para realizar este cálculo se requiere calcular la línea de líquido saturad0, donde A y B son los componentes: 
+
+## $h=x_{a}Cp_{a}(T-T_{0})+(1-x_{a})Cp_{b}(T-T_{0})+\Delta H_{dis}$
+
+
+Por otro lado, la línea de vapor saturado se calcula por medio de: 
+## $H=y_{a}[\lambda_{a}+Cp_{ya}(T-T_{0})]+(1-y_{a})[\lambda_{b}+Cp_{yb}(T-T_{0})]$
+
+Los valores de las entalpías de vaporización deben de ser corregidos por la siguiente ecuación, donde todos los términos con un subíndice B, son a la temperatura de ebullición normal: 
+## $\lambda_{a}=Cp_{a}(T_{Ba}-T_{0})+\lambda_{aB}-Cp_{ya}(T_{Ba}-T_{0})$
+## $\lambda_{b}=Cp_{b}(T_{Bb}-T_{0})+\lambda_{bB}-Cp_{yb}(T_{Ba}-T_{0})$
+
+
 
 
 **FUENTE**
