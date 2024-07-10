@@ -198,9 +198,15 @@ Los valores de las entalpías de vaporización deben de ser corregidos por la si
 
 Ahora debe calcularse el valor de Q', donde los valores de H y h corresponden a las entalpías en la concentración de destilado:
 ## $R=\frac{Q'-H_{vD}}{H_{vD}-h_{LD}}$
+Para calcular la entalpía de la alimentación, debe calcularse la entalpía en el punto pinch (xp y yp), una vez calculado eso sustituirlo en la siguiente fórmula, la determinación de q es la misma que en el Método de McCabe-Thiele [3].<
 
-Una vez calculado esto, debe trazarse una línea recta entre el punto Q' y el punto (xF,hL(xF)) y extrapolar hasta xB, para obtener un nuevo valor de Q''.
+## $H_{F}=H_{F}^{v}-q(H_{F}^{v}-H_{F}^{L})$
+Una vez calculado esto, debe trazarse una línea recta entre el punto Q' y el punto (xF,HF) y extrapolar hasta xB, para obtener un nuevo valor de Q''.
 
+Una vez hecho eso trazar líneas como se muestra en la imagen: 
+![](https://i.ytimg.com/vi/AnbB8Ylrn1E/maxresdefault.jpg)
+
+Source: [YouTube](https://www.youtube.com/watch?app=desktop&v=AnbB8Ylrn1E)
 
 **FUENTE**
 
@@ -208,4 +214,5 @@ Una vez calculado esto, debe trazarse una línea recta entre el punto Q' y el pu
 
 [2] Seader S.D. , Henley E. , Roper K. (2011) *Separation Process Principles: Chemical and Biochemical Operations* 3erd edition,  John & Wiley Sons USA
 
+[3] Geankopolos J.C. (2003) *Procesos de transporte y principios de procesos de separación* 4ta edición CECSA
 
