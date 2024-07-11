@@ -1,23 +1,26 @@
-Este repositorio alberga códigos de uso educativo para la lic. en Ing. Química Sustentable, en el tema de Procesos de Separación, donde se incluye el fundamento teórico y un ejemplo de uso: 
 
-Los temas son:
-* Evaporación
-* Secado
-* Absorción:
-  * En columna de platos
-  * En columna empacada
-* Humidificación
-  * Torre de enfriamiento 
-* Destilación
-  * Binaria en columna de platos por el Método de McCabe-Thiele
-     * 1 Alimentación
-     * Varias alimentaciones
-  * Binaria en columna de platos por el Método Entalpía-Concentración (Método Ponchon-Savarit)
-  * Multicomponente por el Método Fenske-Underwood-Gililland
-  * En tanque Flash
-* Extracción
-  * Sólido-Líquido
-  * Líquido-Líquido  
+
+# **Extracción**
+
+La extracción es una técnica para la remoción de uns soluto de una fase sólida o líquida por medio dele actuar de un solvente líquido. La extracción sólido-líquido es donde se remueve el soluto de un soluto insoluble; mientras que la extracción líquido-líquido es útil para recuperar el soluto de un sistema multicomponente por medio contacto con un líquido inmiscible por el que el soluto tiene afinidad. 
+
+# **Extracción Sólido-Líquido**
+
+El método más importante de extracción es el continuo a contracorriente por etapas. En este método, incluso si el sólido no se mueve, la concentración del líquido va aumentando de etapa a etapa.
+
+En esto se asume que el sólido libre de soluto es completamente insoluble, donde: 
+* *L* es el flujo de líquido retenido en la matriz del sólido.
+* *V* es el sobreflujo.
+* xa: Solución retenida en el sólido a la entrada.
+* xb: Solución retenida en el sólido a la salida
+* yb: Solvente fresco que entra al sistema.
+* yb: Solución concentrada que sale del sistema.
+
+La línea de operación es: 
+## $y_{n+1}=(\frac{L_{n}}{V_{n+1}})x_{n}+\frac{V_{a}y_{a}}{V_{n+1}}$
+
+En el caso en el que la densidad y viscosidad de la solución no varía de punto a punto considerablmente, la línea de operación será recta, de lo contrario se curveará; de forma que se puede construir un diagrama McCabe-Thiele.
+
  
   
 
