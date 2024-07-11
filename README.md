@@ -145,7 +145,7 @@ Cuando se deben procesar varias corrientes de la misma mezcla binaria, pero de d
 
 La forma más eficiente es hacer trazos de las líneas de operación como si la corriente 1 y 2 se mezclaran, de forma que la composición sería la siguiente y la línea de alimentación va así: 
 
-## $x=\frac{A_{1}x_{A1}+A_{2}x_{A2}{A_{1}+A_{2}}$
+## $x=\frac{A_{1}x_{A1}+A_{2}x_{A2}}{A_{1}+A_{2}}$
 ## $\frac{q_A}{q_{A}-1}=\frac{q_{1}A_{1}+q_{2}A_{2}}{(q_{1}-1)A_{1}+(q_{2}-1)A_{2}}$
 La línea de agotamiento se trazará a partir del punto de intersección entre la línea de enriquecimiento y la línea de alimentación de la mezcla [3].
 
