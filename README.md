@@ -21,6 +21,8 @@ La línea de operación es:
 
 En el caso en el que la densidad y viscosidad de la solución no varía de punto a punto considerablmente, la línea de operación será recta, de lo contrario se curveará; de forma que se puede construir un diagrama McCabe-Thiele.
 
- 
+ ![](https://ars.els-cdn.com/content/image/3-s2.0-B9780123725066000046-f14-04-9780123725066.gif)
+
+Source: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/B9780123725066000046)
   
 
