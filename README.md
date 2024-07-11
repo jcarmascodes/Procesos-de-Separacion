@@ -140,6 +140,14 @@ Todos los tipos de alimentación pueden ser caracterizados por medio del paráme
 ![](https://en.citizendium.org/wiki/images/thumb/8/84/McCabe-Thiele.png/325px-McCabe-Thiele.png)
 
 Source: [Citizendium](https://en.citizendium.org/wiki/McCabe-Thiele_method)
+## **Método de McCabe-Thiele para dos corrientes de alimentación**
+Cuando se deben procesar varias corrientes de la misma mezcla binaria, pero de diferentes composiciones, a veces se introduce por separados a la columna.
+
+La forma más eficiente es hacer trazos de las líneas de operación como si la corriente 1 y 2 se mezclaran, de forma que la composición sería la siguiente y la línea de alimentación va así: 
+
+## $x=\frac{A_{1}x_{A1}+A_{2}x_{A2}{A_{1}+A_{2}}$
+## $\frac{q_A}{q_{A}-1}=\frac{q_{1}A_{1}+q_{2}A_{2}}{(q_{1}-1)A_{1}+(q_{2}-1)A_{2}}$
+La línea de agotamiento se trazará a partir del punto de intersección entre la línea de enriquecimiento y la línea de alimentación de la mezcla [3].
 
 # **VIDEO DEMOSTRATIVO DEL FUNCIONAMIENTO DE UNA COLUMNA DE DESTILACIÓN DE PLATOS**
 Ejemplo del funcionamiento del equipo: https://www.youtube.com/watch?v=07MBppchxow
@@ -198,7 +206,7 @@ Los valores de las entalpías de vaporización deben de ser corregidos por la si
 
 Ahora debe calcularse el valor de Q', donde los valores de H y h corresponden a las entalpías en la concentración de destilado:
 ## $R=\frac{Q'-H_{vD}}{H_{vD}-h_{LD}}$
-Para calcular la entalpía de la alimentación, debe calcularse la entalpía en el punto pinch (xp y yp), una vez calculado eso sustituirlo en la siguiente fórmula, la determinación de q es la misma que en el Método de McCabe-Thiele [3].<
+Para calcular la entalpía de la alimentación, debe calcularse la entalpía en el punto pinch (xp y yp), una vez calculado eso sustituirlo en la siguiente fórmula, la determinación de q es la misma que en el Método de McCabe-Thiele [4].<
 
 ## $H_{F}=H_{F}^{v}-q(H_{F}^{v}-H_{F}^{L})$
 Una vez calculado esto, debe trazarse una línea recta entre el punto Q' y el punto (xF,HF) y extrapolar hasta xB, para obtener un nuevo valor de Q''.
@@ -214,5 +222,7 @@ Source: [YouTube](https://www.youtube.com/watch?app=desktop&v=AnbB8Ylrn1E)
 
 [2] Seader S.D. , Henley E. , Roper K. (2011) *Separation Process Principles: Chemical and Biochemical Operations* 3erd edition,  John & Wiley Sons USA
 
-[3] Geankopolos J.C. (2003) *Procesos de transporte y principios de procesos de separación* 4ta edición CECSA
+[3] Cortés-Castañeda A. (2003) *Diseño de un Fasciculo sobre el Método de McCabe-Thiele* Universidad Nacional Autónoma de México, Ciudad de México
+
+[4] Geankopolos J.C. (2003) *Procesos de transporte y principios de procesos de separación* 4ta edición CECSA
 
