@@ -19,7 +19,7 @@ En esto se asume que el sólido libre de soluto es completamente insoluble, dond
 La línea de operación es: 
 ## $y_{n+1}=(\frac{L_{n}}{V_{n+1}})x_{n}+\frac{V_{a}y_{a}}{V_{n+1}}$
 
-Esta línea es preferible hacerla al ajustar una serie de puntos notables (el primero se calcula como x1=ya; el resto de los puntos notables deben quedar entre x1 y xb), ya que Vn+1 y Ln, varían considerablemente de punto a punto, esto de acuerdo a los datos experimentales de aceite en solución retenida por kg de sólido inerte. La relación de equilibrio es igual a x=y, ya que se supone que la canttidad de disolvente es suficiente para disolver el soluto y que el soluto no se adsorbe en el sólido inerte.
+Esta línea es preferible hacerla al ajustar una serie de puntos notables (el primero se calcula como *x1=ya*; el resto de los puntos notables deben quedar entre *x1* y *xb*), ya que *Vn+1* y Ln, varían considerablemente de punto a punto, esto de acuerdo a los datos experimentales de aceite en solución retenida por kg de sólido inerte. La relación de equilibrio es igual a *x=y*, ya que se supone que la cantidad de disolvente es suficiente para disolver el soluto y que el soluto no se adsorbe en el sólido inerte.
 
 En el caso en el que la densidad y viscosidad de la solución no varía de punto a punto considerablmente, la línea de operación será recta, de lo contrario se curveará.
 
