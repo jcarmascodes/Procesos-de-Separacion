@@ -26,5 +26,30 @@ En el caso en el que la densidad y viscosidad de la solución no varía de punto
  ![](https://ars.els-cdn.com/content/image/3-s2.0-B9780123725066000046-f14-04-9780123725066.gif)
 
 Source: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/B9780123725066000046)
-  
+
+# **Extracción Líquido-Líquido**
+En la extracción líquido-líquido, como en otras operaciones de separación, 2 fases deben ponerse en contacto para permitir una transferencia de masa adecuada. El problema de transferencia de masa se vuelve particularmente más complejo en los sistemas líquido-líquido, esto debido a diferencias de densidad y viscosidad entre ambas fases dificultan un mezclado y separación sencillos; por lo que debe de añadírsele en algunos casos energía mecánica par promover la transferencia de masa rápida.
+
+Aquí aparecen 2 conceptos: 
+* *Extracto*: Es la fracción de solvente más soluto
+* *Refinado*: Es la fracción de la que el soluto ha sido removido.
+
+## *Extracción de solutos diluidos*
+Dado que muchas operaciones se hacen en contracorriente, muchos principios usados en destilación y absorción aplican en extracción.
+
+En este tipo de extracciones, los cambios entre los flujos pueden ser despreciados, y se usa un coeficiente de distribución $K_{D}$; los cuales ayudan a definir un factor de extracción E. 
+## $E=\frac{K_{D}V}{L}$
+siendo la fracción de soluto remanente es: 
+
+## $\frac{1}{1+E}$
+y la fracción de soluto recuperado es: 
+## $\frac{E}{1+E}$
+Dado que es una extracción de un soluto diluido, se puede hacer una simplificación y usar las ecuaciones de Kremser.
+
+## $N=\frac{ln[(y_{b}-y_{b}^{\*})/(y_{a}-y_{a}^{\*})]}{ln[(y_{b}-y_{a})/(y_{b}^{\*}-y_{a}^{\*})]}$
+Especies con (\*) representan las concentraciones al equilibrio.
+
+**FUENTE**
+
+[1] McCabe W. , Smith J. , Harriott P. (2022) *Unit Operations of Chemical Engineering* 7th edition, McGraw-Hill India
 
