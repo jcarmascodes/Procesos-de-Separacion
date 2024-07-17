@@ -49,6 +49,14 @@ Dado que es una extracción de un soluto diluido, se puede hacer una simplificac
 ## $N=\frac{ln[(y_{b}-y_{b}^{\*})/(y_{a}-y_{a}^{\*})]}{ln[(y_{b}-y_{a})/(y_{b}^{\*}-y_{a}^{\*})]}$
 Especies con (\*) representan las concentraciones al equilibrio.
 
+Para soluciones más concentradas, es recomendable usar datos de equilibrio obtenidos a partir de diagramas ternarios.
+
+Para este tipo de problemas, pueden trazarse las etapas de equilibrio en el diagrama ternario, sin embargo una simplificación a través de un digrama de McCabe-Thiele en de la concentración del soluto en la fase del extracto y el refinado (este diagrama no muestra la concentración del solvente en el refinado o de la solución original en el extracto) ayuda a resolver el problema con relativa exactitud. 
+
+Para la construcción de la línea de operación deben de considerarse la composición de los componentes menores para determinar los flujos de extracto y refinado, los cuales son relevantes para la construcción de la línea de operación. 
+
+El diagrama McCabe-Thiele se construye a través de colocar la fracción másica del soluto en el extracto (y) en la ordenada y la fracción masa del soluto en el refinado (x) en la abscisa. La línea de operación se construye de forma análoga a la fórmula presentada para la extracción sólido-líquido; a partir de ahí se construyen las etapas de la manera ya conocida.
+
 **FUENTE**
 
 [1] McCabe W. , Smith J. , Harriott P. (2022) *Unit Operations of Chemical Engineering* 7th edition, McGraw-Hill India
