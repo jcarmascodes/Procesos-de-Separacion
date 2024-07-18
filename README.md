@@ -39,11 +39,11 @@ Dado que muchas operaciones se hacen en contracorriente, muchos principios usado
 
 En este tipo de extracciones, los cambios entre los flujos pueden ser despreciados, y se usa un coeficiente de distribución $K_{D}$; los cuales ayudan a definir un factor de extracción E. 
 ## $E=\frac{K_{D}V}{L}$
-siendo la fracción de soluto remanente es: 
+siendo la fracción de soluto remanente después de extracción con solvente fresco es: 
 
-## $\frac{1}{1+E}$
+## $\frac{x_{1}}{x_{0}}=\frac{1}{1+E}$
 y la fracción de soluto recuperado es: 
-## $\frac{E}{1+E}$
+## $1-\frac{x_{1}}{x_{0}}=\frac{E}{1+E}$
 Dado que es una extracción de un soluto diluido, se puede hacer una simplificación y usar las ecuaciones de Kremser.
 
 ## $N=\frac{ln[(y_{b}-y_{b}^{\*})/(y_{a}-y_{a}^{\*})]}{ln[(y_{b}-y_{a})/(y_{b}^{\*}-y_{a}^{\*})]}$
