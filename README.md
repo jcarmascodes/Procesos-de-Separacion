@@ -1,6 +1,10 @@
 Este repositorio alberga códigos de uso educativo para la lic. en Ing. Química Sustentable, en el tema de Procesos de Separación, donde se incluye el fundamento teórico y un ejemplo de uso: 
 
 Los temas son:
+* Evaporación:
+  * Un solo efecto
+  * Evaporador para soluciones concentradas
+  * Efecto múltiple
 * Absorción:
   * En columna de platos
   * En columna empacada
