@@ -12,3 +12,26 @@ Cuando el calor de disolución a la que se concetran una solución en el evapora
 # **Evaporadores de múltiple efecto**
 Los evaporadores de efecto múltiple desperdician no desperdician tanta energía como los de efecto simple; ya que los evaporadores de efecto múltiple usan el calor latente del vapor para calentar un nuevo evaporador. 
 
+La cantidad de calor transferidoen el primer efecto se define como:
+## $q_{1}=U_{1}A_{1}\Delta T_{1}$
+Y esa expresión se puede ampliar, en el caso del triple efecto.
+## $U_{1}A_{1}\Delta T_{1}=U_{2}A_{2}\Delta T_{2}=U_{3}A_{3}\Delta T_{3}$
+
+Aunque, por lo general los evaporadores se construyen todos de la misma área, por lo que: 
+
+## $\frac{q}{A}=U_{1}\Delta T_{1}=U_{2}\Delta T_{2}=U_{3}\Delta T_{3}$
+
+Dado que las caídas de temperatura son inversamente proporcionales a los valores de U; llegamos a la expresión: 
+
+## $\Delta T_{1}=\sum \Delta T \frac{1/U_{1}}{1/U_{1}+1/U_{2}+1/U_{3}}$
+
+![](https://ve.scielo.org/img/fbpe/rtfiuz/v31n2/art06fig1.gif)
+
+Source: [Scielo](https://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0254-07702008000200006)
+
+
+
+
+
+
+
