@@ -78,9 +78,10 @@ Siendo S la tolerancia del sistema
 
 # **Método de McCabe-Thiele**
 La destilación flash es usada como único método de separación si la volatilidad entre las especies de la mezcla es muy diferente; aunque en la mayoría de los casos es más común encontrar columnas de platos, los cuales funcionan como múltiples etapas de equilibrio para lograr una pureza determinada.
+
 **Balances de Materia**
-$\frac{Fz-Fx_{D}}{x_{B}-x_{D}}=B$
-$D=F-B$
+## $\frac{Fz-Fx_{D}}{x_{B}-x_{D}}=B$
+## $D=F-B$
 
 El método de McCabe-Thiele funciona en los siguientes casos si: 
 * Los componentes tienen entalpías de vaporización similares y constantes.
