@@ -10,7 +10,7 @@ En la mayoría de los casos, las soluciones no suelen estar muy diluidas; por lo
 Cuando el calor de disolución a la que se concetran una solución en el evaporador es alto, no se puede despreciar en los balances de energía; para ello existen diagramas de entalpía-concentración como es el caso del ejemplo de NaOH.
 
 # **Evaporadores de múltiple efecto**
-Los evaporadores de efecto múltiple desperdician no desperdician tanta energía como los de efecto simple; ya que los evaporadores de efecto múltiple usan el calor latente del vapor para calentar un nuevo evaporador. 
+Los evaporadores de efecto múltiple desperdician no desperdician tanta energía como los de efecto simple; ya que los evaporadores de efecto múltiple usan el calor latente del vapor para calentar un nuevo evaporador [1]. 
 
 La cantidad de calor transferidoen el primer efecto se define como:
 ## $q_{1}=U_{1}A_{1}\Delta T_{1}$
@@ -28,6 +28,9 @@ Dado que las caídas de temperatura son inversamente proporcionales a los valore
 ![](https://ve.scielo.org/img/fbpe/rtfiuz/v31n2/art06fig1.gif)
 
 Source: [Scielo](https://ve.scielo.org/scielo.php?script=sci_arttext&pid=S0254-07702008000200006)
+
+**FUENTE**
+[4] Geankopolis J.C. (2003) *Procesos de transporte y principios de procesos de separación* 4ta edición CECSA
 
 
 
