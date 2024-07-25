@@ -172,7 +172,7 @@ La ecuación de Fenske aplica para la determinación del número mínimo de plat
 ## $N_{min}=\frac{\ln[(x_{Di}/x_{Bi})/(x_{Dj}/x_{Bj})]}{\ln{\alpha_{ij}}}$
 ## $\alpha_{ij}=\sqrt[3]{\alpha_{Dij}\alpha_{Fij}\alpha_{Bij}}=\frac{\alpha_{LK}}{\alpha_{HK}}$
 
-La ecuación de Underwood ayuda a determinar la razín de reflujo mínima. 
+La ecuación de Underwood ayuda a determinar la razón de reflujo mínima. 
 ## $1-q=\sum\frac{\alpha_{i}x_{Fi}}{\alpha_{i}-\phi}$
 ## $Rd_{min}+1=\sum\frac{\alpha_{i}x_{Di}}{\alpha_{i}-\phi}$
 
@@ -188,7 +188,7 @@ El Método de McCabe-Thiele hace algunas suposiciones que no son del todo exacta
 Un diagrama de entalpía-concentración de la mezcla vapor líquido incluye los calores latentes, los calores de mezclado y los calores sensibles, por lo que para construir los diagramas a presión constante se requieren: 
 * Capacidad calorífica del líquido en función de la temperatura
 * Calor de disolución en función de la temperatura y composición
-* Calores latentes de vaporización en función de la composción y temperatura o presión.
+* Calores latentes de vaporización en función de la composición y temperatura o presión.
 * Punto de ebullición en función de la temperatura, presión y composición.
 
 Para realizar este cálculo se requiere calcular la línea de líquido saturad0, donde A y B son los componentes: 
@@ -207,7 +207,7 @@ Los valores de las entalpías de vaporización deben de ser corregidos por la si
 
 Ahora debe calcularse el valor de Q', donde los valores de H y h corresponden a las entalpías en la concentración de destilado:
 ## $R=\frac{Q'-H_{vD}}{H_{vD}-h_{LD}}$
-Para calcular la entalpía de la alimentación, debe calcularse la entalpía en el punto pinch (xp y yp), una vez calculado eso sustituirlo en la siguiente fórmula, la determinación de q es la misma que en el Método de McCabe-Thiele [4].<
+Para calcular la entalpía de la alimentación, debe calcularse la entalpía en el punto pinch (xp y yp), una vez calculado eso, hay que sustituirlo en la siguiente fórmula, la determinación de q es la misma que en el Método de McCabe-Thiele [4].<
 
 ## $H_{F}=H_{F}^{v}-q(H_{F}^{v}-H_{F}^{L})$
 Una vez calculado esto, debe trazarse una línea recta entre el punto Q' y el punto (xF,HF) y extrapolar hasta xB, para obtener un nuevo valor de Q''.
@@ -225,5 +225,5 @@ Source: [YouTube](https://www.youtube.com/watch?app=desktop&v=AnbB8Ylrn1E)
 
 [3] Cortés-Castañeda A. (2003) *Diseño de un Fasciculo sobre el Método de McCabe-Thiele* Universidad Nacional Autónoma de México, Ciudad de México
 
-[4] Geankopolos J.C. (2003) *Procesos de transporte y principios de procesos de separación* 4ta edición CECSA
+[4] Geankopolis J.C. (2003) *Procesos de transporte y principios de procesos de separación* 4ta edición CECSA
 
