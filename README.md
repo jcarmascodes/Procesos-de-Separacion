@@ -11,7 +11,7 @@ Source: [Filson Filter](https://www.filsonfilters.com/absorption-tower)
 ## **Columna de Platos**
 Uno de los métodos por el que se analizan este tipo de equipos es a través de un Método Gráfico, el cual consiste en dibujar 2 líneas:
 
-* *Línea de Equilibrio*: Ajusta datos y-x de equilibrio de fases entre el soluto y el absorbente. Para mezclas muy diluidas, el Ley de Henry puede describir correctamente este equilibrio.
+* *Línea de Equilibrio*: Ajusta datos y-x de equilibrio de fases entre el soluto y el absorbente. Para mezclas muy diluidas, la Ley de Henry puede describir correctamente este equilibrio.
 * *Línea de Operación*: Representa las condiciones de absorción y-x deseadas durante el funcionamiento del equipo. Donde sus puntos terminales representan las condiciones en el fondo (extremo superior de la línea de operación) y el domo de la torre (extremo inferior de la línea de operación). Para torres de absorción, esta línea debe estar por encima de la línea de equilibrio; en el caso de desorción es contrario.
 
 Para el cálculo del número de platos, deben de dibujarse escalones ente las líneas de operación y equilibrio. Esto se logra comenzando el dibujo desde la cima de la torre y terminando en el fondo de esta [1].
