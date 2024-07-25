@@ -22,4 +22,10 @@ Los temas son:
   * Líquido-Líquido  
  
   
+**Elaboró:**
 
+**Luis Carlos Barrientos Alvarez**
+
+**Estudiante de Ingeniería Química Sustentable**
+
+**Universidad de Guanajuato** 
