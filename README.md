@@ -29,3 +29,5 @@ Los temas son:
 **Estudiante de Ingeniería Química Sustentable**
 
 **Universidad de Guanajuato** 
+
+Nota: Los códigos de McCabe-Thiele y absorción de este repositorio se adapataron y ampliaron a partir de los elaborados por el I.Q.S. Gregor Hassel Rangel Almendarez
